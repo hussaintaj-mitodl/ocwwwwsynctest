@@ -2,7 +2,7 @@
 content_type: stories
 draft: false
 image:
-  content: 44e369de-8d1c-4d7d-95b8-8aaa82e35d09
+  content: 7a8dc252-e0bf-496e-a467-afd7fe401a81
   website: ocwwwwsynctest
 leadquote: ''
 location: ''
