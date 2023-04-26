@@ -4,7 +4,7 @@ courselists:
   content: []
   website: ocwwwwsynctest
 cover-image:
-  content: 6598574d-bf85-40cb-82c3-1bca5560a28c
+  content: 7a8dc252-e0bf-496e-a467-afd7fe401a81
   website: ocwwwwsynctest
 description: coiurcol
 featured-courses:
