@@ -2,7 +2,7 @@
 content_type: promos
 draft: false
 image:
-  content: 24ac45ea-5d24-4918-8dcc-1be414d900e6
+  content: 7a8dc252-e0bf-496e-a467-afd7fe401a81
   website: ocwwwwsynctest
 link_title: pr
 link_url: https://www.google.com
